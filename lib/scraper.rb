@@ -21,7 +21,7 @@ class Scraper
 
     def get_courses
       courses = get_page
-      @courses.css(".course-grid posts-holder .post same-height-left")
+      courses.css(".course-grid posts-holder .post same-height-left")
     end
 
     def make_courses
