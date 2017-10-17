@@ -19,7 +19,7 @@ class Scraper
       @courses = Nokogiri::HTML(html)
     end
 
-    def self.get_courses
+    def get_courses
       @courses.css(".course-grid posts-holder .post same-height-left")
     end
 
