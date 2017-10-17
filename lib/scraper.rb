@@ -16,7 +16,7 @@ class Scraper
     end
 
     def get_page
-      @courses = Nokogiri::HTML(html)
+      Nokogiri::HTML(html)
     end
 
     def get_courses
