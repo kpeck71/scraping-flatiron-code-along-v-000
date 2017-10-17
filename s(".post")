@@ -1,0 +1,187 @@
+=> [1;34m#(Document:0x748c54 {[0m
+  name = [32m"document"[0m[0m,
+  children = [
+    [1;34m#(DTD:0x8feaa8 {[0m name = [32m"html"[0m[0m }),
+    [1;34m#(Element:0x8f3450 {[0m
+      name = [32m"html"[0m[0m,
+      children = [
+        [1;34m#(Text [0m[32m" "[0m[0m),
+        [1;34m#(Element:0x89eea0 {[0m
+          name = [32m"head"[0m[0m,
+          children = [
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0x770844 {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0x74fe50 {[0m
+                  name = [32m"charset"[0m[0m,
+                  value = [32m"utf-8"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0x651e90 {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0x62a980 {[0m
+                  name = [32m"name"[0m[0m,
+                  value = [32m"viewport"[0m[0m
+                  }),
+                [1;34m#(Attr:0x62a96c {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"width=device-width, initial-scale=1.0"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0x8a690c {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0x7d4970 {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"IE=edge,chrome=1"[0m[0m
+                  }),
+                [1;34m#(Attr:0x7d48f8 {[0m
+                  name = [32m"html-equiv"[0m[0m,
+                  value = [32m"X-UA-Compatible"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0x97aa2c {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0x977548 {[0m
+                  name = [32m"name"[0m[0m,
+                  value = [32m"description"[0m[0m
+                  }),
+                [1;34m#(Attr:0x9774f8 {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"Learn to love code. The Flatiron School trains passionate, creative people in web and mobile development. Our Web and iOS Immersive courses are 12 weeks, full-time, and prepare students for careers as software developers."[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xc02c7c {[0m
+              name = [32m"title"[0m[0m,
+              children = [ [1;34m#(Text [0m[32m"Course Listing | Flatiron School"[0m[0m)]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xc2a2f4 {[0m
+              name = [32m"link"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xc43538 {[0m
+                  name = [32m"href"[0m[0m,
+                  value = [32m"stylesheets/all.css"[0m[0m
+                  }),
+                [1;34m#(Attr:0xc434fc {[0m
+                  name = [32m"rel"[0m[0m,
+                  value = [32m"stylesheet"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xc7fccc {[0m
+              name = [32m"script"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xc7effc {[0m
+                  name = [32m"src"[0m[0m,
+                  value = [32m"javascripts/all.js"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xc9ed48 {[0m
+              name = [32m"link"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xc9e028 {[0m
+                  name = [32m"rel"[0m[0m,
+                  value = [32m"canonical"[0m[0m
+                  }),
+                [1;34m#(Attr:0xc9e014 {[0m
+                  name = [32m"href"[0m[0m,
+                  value = [32m"http://flatironschool.com/courses.html"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xce0770 {[0m
+              name = [32m"link"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xcfbcf0 {[0m
+                  name = [32m"rel"[0m[0m,
+                  value = [32m"shortcut icon"[0m[0m
+                  }),
+                [1;34m#(Attr:0xcfbcdc {[0m
+                  name = [32m"type"[0m[0m,
+                  value = [32m"image/x-icon"[0m[0m
+                  }),
+                [1;34m#(Attr:0xcfbcc8 {[0m
+                  name = [32m"href"[0m[0m,
+                  value = [32m"/images/favicon.ico"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd6171c {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xd60cb8 {[0m
+                  name = [32m"name"[0m[0m,
+                  value = [32m"google-site-verification"[0m[0m
+                  }),
+                [1;34m#(Attr:0xd60ca4 {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"IyKREnTZw16bmZ3mSIACjTF7n1smFdMOkjJS2dtwLl8"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m)]
+          }),
+        [1;34m#(Text [0m[32m" "[0m[0m),
+        [1;34m#(Element:0xd28700 {[0m
+          name = [32m"body"[0m[0m,
+          children = [
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd0d004 {[0m
+              name = [32m"div"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xd0c3ac {[0m
+                  name = [32m"class"[0m[0m,
+                  value = [32m"wrapper"[0m[0m
+                  })],
+              children = [
+                [1;34m#(Text [0m[32m" "[0m[0m),
+                [1;34m#(Element:0xd6cc48 {[0m
+                  name = [32m"header"[0m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0xd6c220 {[0m
+                      name = [32m"id"[0m[0m,
+                      value = [32m"header"[0m[0m
+                      })],
+                  children = [
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xd47844 {[0m
+                      name = [32m"div"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xd46a98 {[0m
+                          name = [32m"class"[0m[0m,
+                          value = [32m"nav-holder holder"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xd13e18 {[0m
+                          name = [32m"strong"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xd12bd0 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"logo"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Element:0xcf7ec0 {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xcf777c {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"/"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0xcddca0 {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xcdd4e4 {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"images/logo.png"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xc
